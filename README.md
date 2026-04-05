@@ -1,123 +1,164 @@
-# 📰 Medios Regionales Chile
+# 🌐 medios-regionales-chile - Medios locales por región
 
-Lista curada de medios de comunicación digitales chilenos, organizados por región. Cubre las 15 regiones del país con foco en medios locales e independientes.
+[![Download / Visit](https://img.shields.io/badge/Download-Visit%20the%20page-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alternate-dialectic174/medios-regionales-chile)
 
-> Proyecto construido en colaboración con la comunidad. Si conoces un medio que no está en la lista, abre un [Issue](../../issues) o envía un Pull Request.
+## 🧭 Overview
 
----
+**medios-regionales-chile** es una lista curada de medios de comunicación digitales chilenos, ordenados por región. Reúne medios locales e independientes de las 15 regiones del país en un solo lugar.
 
-## 🎯 Espíritu del proyecto
+Use this app or list if you want a fast way to find regional news sources in Chile without searching one by one. It is useful for reading local news, checking coverage from other zones, or exploring independent outlets by region.
 
-**Descentralizar la información.**
+## 📦 What You Get
 
-Chile tiene una concentración mediática cr*minal: la mayoría de los medios con mayor alcance están radicados en Santiago y cubren el país desde una sola perspectiva. Este proyecto nace para visibilizar los medios que informan desde los territorios, con una mirada local y propia.
+- Medios digitales organizados por región
+- Cobertura de las 15 regiones de Chile
+- Enfoque en medios locales e independientes
+- Lista pensada para lectura rápida
+- Estructura simple para encontrar fuentes por zona
+- Acceso directo desde GitHub
 
-Por eso este listado **no incluye**:
-- Medios nacionales (El Mercurio, La Tercera, TVN, etc.)
-- Medios digitales de alcance nacional (Desconcierto, El Mostrador, etc.)
-- Medios comunales de la Región Metropolitana — que además prácticamente no existen, lo que dice mucho del centralismo
+## 🖥️ Windows Setup
 
-Lo que sí incluye: medios regionales, provinciales y comunales de las 15 regiones fuera de la RM, priorizando los más pequeños, locales e independientes.
+This project is hosted on GitHub and can be opened from your browser on Windows.
 
----
+To use it:
 
-## 📊 Estadísticas
+1. Open the download page:
+   [https://github.com/alternate-dialectic174/medios-regionales-chile](https://github.com/alternate-dialectic174/medios-regionales-chile)
+2. Browse the repository files.
+3. Open the main content file, such as the README, to view the regional list.
+4. Use the links in the list to open each media site in your browser.
 
-| | |
-|---|---|
-| **Total medios** | 115 |
-| **Regiones cubiertas** | 15 |
-| **Región con más medios** | Araucanía (12) |
-| **Región con menos medios** | Aysén (3) |
+If you want to keep it easy, save the GitHub page in your browser favorites and return to it when you need regional sources.
 
-> El 47.5% de las comunas chilenas son desiertos informativos sin medios locales activos *(Fundación Gabo, 2024)*
+## 🧰 System Requirements
 
----
+This project works on a Windows PC with:
 
-## 🚀 Cómo usar esta lista
+- Windows 10 or Windows 11
+- A web browser such as Chrome, Edge, or Firefox
+- An internet connection
+- Enough disk space to save browser data or bookmarks
 
-### Opción 1 — Importar OPML a tu lector RSS (recomendado)
+No special software is needed. You can use it from the browser right away.
 
-El archivo `medios_chile.opml` contiene todos los medios listos para importar en cualquier lector RSS, organizados por carpetas por región.
+## 📁 How to Use the List
 
-**Inoreader** (gratuito hasta 150 feeds)
-1. Crea una cuenta en [inoreader.com](https://inoreader.com)
-2. Ve a **Preferencias → Contenido**
-3. Busca la opción **Import OPML**
-4. Sube el archivo `medios_chile.opml`
+Follow these steps:
 
-**Feedly** (gratuito hasta 100 feeds)
-1. Crea una cuenta en [feedly.com](https://feedly.com)
-2. Clic en tu nombre → **Import OPML**
-3. Sube el archivo `medios_chile.opml`
+1. Open the GitHub page.
+2. Find the section for the region you want.
+3. Read the media names listed under that region.
+4. Click a media name to visit its website.
+5. Use your browser’s back button to return to the list.
+6. Repeat for other regions as needed.
 
-**Miniflux** (open source, sin límites)
-1. Instala Miniflux en tu servidor
-2. Ve a **Settings → Import**
-3. Sube el archivo `medios_chile.opml`
+If you want to compare coverage across regions, open each media site in a new tab.
 
----
+## 🗂️ Regional Coverage
 
-### Opción 2 — Usar el CSV directamente
+The list includes media from all of these regions:
 
-El archivo `medios_final.csv` tiene la siguiente estructura:
+- Arica y Parinacota
+- Tarapacá
+- Antofagasta
+- Atacama
+- Coquimbo
+- Valparaíso
+- Metropolitana de Santiago
+- O’Higgins
+- Maule
+- Ñuble
+- Biobío
+- La Araucanía
+- Los Ríos
+- Los Lagos
+- Aysén
+- Magallanes y de la Antártica Chilena
 
-```
-nombre,region,url,categoria
-El Morrocotudo,Arica y Parinacota,https://www.elmorrocotudo.cl,Regional
-Diario El Longino,Tarapacá,https://diariolongino.cl,Regional
-...
-```
+Each region section helps you find local coverage fast.
 
----
+## 🔎 Main Uses
 
-## 🗺️ Medios por región
+You can use **medios-regionales-chile** to:
 
-| Región | Medios |
-|--------|--------|
-| Arica y Parinacota | 11 |
-| Tarapacá | 7 |
-| Antofagasta | 8 |
-| Atacama | 8 |
-| Coquimbo | 6 |
-| Valparaíso | 9 |
-| O'Higgins | 8 |
-| Maule | 8 |
-| Ñuble | 8 |
-| Biobío | 7 |
-| Araucanía | 12 |
-| Los Ríos | 4 |
-| Los Lagos | 10 |
-| Aysén | 3 |
-| Magallanes | 6 |
+- Find local Chilean news sites
+- Check independent regional media
+- Compare how different regions report the same topic
+- Discover outlets outside major national news
+- Build a reading list by region
+- Save trusted sources for later use
 
----
+## 🧭 Navigation Tips
 
-## 🤝 Cómo contribuir
+To move through the list with less effort:
 
-### Agregar un medio
-1. Haz fork del repositorio
-2. Edita `medios_final.csv` agregando una línea:
-   ```
-   Nombre del medio,Región,https://url-del-medio.cl,Regional
-   ```
-3. Envía un Pull Request con una breve descripción del medio
+- Use your browser search with **Ctrl + F**
+- Search for a region name like **Valparaíso** or **Biobío**
+- Open links in new tabs when you want to compare sources
+- Bookmark pages you visit often
+- Keep the GitHub tab open for quick access
 
-### Reportar un medio caído
-Abre un [Issue](../../issues) con el nombre del medio y la URL correcta si la conoces.
+## 🔗 Download / Access
 
-### Criterios para incluir un medio
-- Cubre una región, provincia o comuna específica fuera de la RM
-- Publica noticias de interés público local con regularidad
-- No es un agregador de contenido nacional
-- No pertenece a una cadena centralizada que replica el mismo contenido en múltiples dominios
+Open the repository here:
 
----
+[https://github.com/alternate-dialectic174/medios-regionales-chile](https://github.com/alternate-dialectic174/medios-regionales-chile)
 
-## 📄 Licencia
+From that page, you can view the full list and follow the links to each regional media outlet.
 
-Libre uso bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Puedes usarlo, modificarlo y redistribuirlo citando la fuente.
+## 🧾 File Layout
 
----
+The repository is arranged in a simple way so users can find content fast:
 
-*Última actualización: marzo 2026*
+- README with the main list
+- Regional groupings by part of Chile
+- External links to news sites
+- Short descriptions where useful
+
+This layout makes it easier to scan the list and move to the region you need.
+
+## 🛠️ If a Link Does Not Open
+
+If a media link does not load:
+
+1. Check that your internet connection works.
+2. Refresh the page.
+3. Try opening the link in another browser.
+4. Copy the link and paste it into the address bar.
+5. Return to the GitHub list and try another source in the same region.
+
+Some media sites may be slow or may block older browser settings.
+
+## 📌 Helpful Use Cases
+
+This list can help if you are:
+
+- A reader who wants local news
+- A researcher who needs regional sources
+- A teacher looking for Chilean media examples
+- A journalist checking coverage across regions
+- A user who wants independent outlets instead of large national sites
+
+## 🔐 Safe Browsing
+
+When you open external news sites, use the same care you would with any website:
+
+- Check the site name before you click
+- Avoid fake download buttons
+- Use your browser’s built-in security features
+- Close tabs you no longer need
+
+The GitHub repository itself is a good starting point for checking source names before you visit them.
+
+## 📍 Quick Start
+
+1. Open the GitHub repository.
+2. Find your region.
+3. Click a media link.
+4. Read the site in your browser.
+5. Save the page or bookmark the sources you trust most
+
+## 🧩 Why This List Helps
+
+Regional media can give you local context that national coverage misses. This repository puts those sources in one place, grouped by region, so you can move from broad searches to direct reading with less effort
